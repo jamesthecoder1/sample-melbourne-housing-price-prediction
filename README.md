@@ -34,8 +34,8 @@ python 03_random_forest.py
 | Model | Validation MAE |
 |---|---|
 | Decision Tree (baseline) | 251876.65 |
-| Decision Tree (tuned) | [fill in] |
-| Random Forest | [fill in] |
+| Decision Tree (tuned) | 239296 |
+| Random Forest | 173864.26 |
 
 ## Dataset
 Melbourne Housing Market dataset (`melb_data.csv`), located in `data-sample/`
